@@ -25,7 +25,7 @@ require (
 	github.com/spf13/cobra v1.4.0
 	github.com/spf13/pflag v1.0.5
 	github.com/spf13/viper v1.11.0
-	go.step.sm/crypto v0.16.1
+	go.step.sm/crypto v0.16.2
 	go.uber.org/multierr v1.7.0 // indirect
 	go.uber.org/zap v1.21.0
 	goa.design/goa v2.2.5+incompatible // indirect
