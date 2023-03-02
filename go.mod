@@ -22,7 +22,7 @@ require (
 	github.com/magiconair/properties v1.8.7
 	github.com/prometheus/client_golang v1.14.0
 	github.com/prometheus/client_model v0.3.0
-	github.com/prometheus/common v0.39.0
+	github.com/prometheus/common v0.41.0
 	github.com/rs/cors v1.8.3
 	github.com/sigstore/sigstore v1.4.7-0.20221129181343-66783b685c70
 	github.com/spf13/cobra v1.6.1
@@ -158,7 +158,7 @@ require (
 	go.uber.org/multierr v1.9.0 // indirect
 	goa.design/goa v2.2.5+incompatible // indirect
 	golang.org/x/crypto v0.5.0 // indirect
-	golang.org/x/net v0.6.0 // indirect
+	golang.org/x/net v0.7.0 // indirect
 	golang.org/x/oauth2 v0.5.0 // indirect
 	golang.org/x/sync v0.1.0 // indirect
 	golang.org/x/sys v0.5.0 // indirect
